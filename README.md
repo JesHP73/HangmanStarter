@@ -57,10 +57,10 @@ Python capabilities. If you're venturing into Python or scouting for a foundatio
 you've struck gold.
 
 ### Improvements for future me
-1.Add on Multiple players 
-2.Add a "Hint" after x amoutn of mistakes
-3.Add on real images of hangman (not \|/)
-4.Better presentation a user friendly look 👓
+1. Add on Multiple players
+2. Add a "Hint" after x amoutn of mistakes
+3. Add on real images of hangman (not \|/)
+4. Better presentation a user friendly look 👓
 
 ---
 
