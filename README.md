@@ -56,6 +56,12 @@ Aimed mainly at instruction and demonstration, I created this code to fathom and
 Python capabilities. If you're venturing into Python or scouting for a foundational project to dissect, 
 you've struck gold.
 
+### Improvements for future me
+1.Add on Multiple players 
+2.Add a "Hint" after x amoutn of mistakes
+3.Add on real images of hangman (not \|/)
+4.Better presentation a user friendly look 👓
+
 ---
 
 To immerse yourself in the game, ensure the requisite Python libraries are in place. 
